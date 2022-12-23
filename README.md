@@ -9,4 +9,3 @@
 - 📫 How to reach me: basskeman@gmail.com, and +82 10 8226 7912.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I drop lines that Da Vinci can't code. Yeah, some times.
-- 
