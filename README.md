@@ -7,7 +7,7 @@ I am Bassirou. I am interested on Modeling and Computation of Complex Systems.
 - 🤔 I’m looking for help for a simulation of a full NMR spectrometer.
 
 - 💬 Ask me about:
--  Mathematics (numerical methods, differential equations, linear algebra, probability and statistics);
+- - Mathematics (numerical methods, differential equations, linear algebra, probability and statistics);
 - - Machine and Deep learning (dimensionality reduction and clustering methods, specially, PCA technique and Kohonen SOM neural networks);
 - - Control Systems and Signal Processing (Simulink, LTI systems, Fourier and Laplace transforms);
 - - Physics (solid-state physics, dynamical dystems, NMR, quantum computing); 
