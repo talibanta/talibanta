@@ -21,3 +21,18 @@ I am Bassirou. I am interested on Modeling and Computation of Complex Systems.
 
 - ⚡ Fun fact: I drop lines that Da Vinci can't code. Yeah, sometimes 😄.
 
+
+
+### Hi there 👋, Bassirou Ndiaye
+#### I am Bassirou a Senegalese living in Korea.
+![I am Bassirou a Senegalese living in Korea.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I am interested on Systems Modeling (model-based and data-driven) and their Computation with numerical or machine learning methods.
+
+Skills: Python / Matlab / Simulink / HTML / C / C# / C++ / Fortran
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
