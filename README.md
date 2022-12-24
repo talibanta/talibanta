@@ -16,5 +16,5 @@ I am Bassirou. I am interested on Modeling and Computation of Complex Systems.
 
 - 📫 How to reach me: basskeman@gmail.com, and +82 10 8226 7912.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I drop lines that Da Vinci can't code. Yeah, sometimes.
+- ⚡ Fun fact: I drop lines that Da Vinci can't code. Yeah, sometimes 😄.
 
