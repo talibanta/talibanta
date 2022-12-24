@@ -8,7 +8,7 @@ I am Bassirou. I am interested on Modeling and Computation of Complex Systems.
 
 - 💬 Ask me about:
 - - Mathematics (numerical methods, differential equations, linear algebra, probability and statistics);
-- - Machine and Deep learning (dimensionality reduction and clustering methods, specially, PCA technique and Kohonen SOM neural networks);
+- - Machine and Deep Learning (dimensionality reduction and clustering methods, specially, PCA technique and Kohonen SOM neural networks);
 - - Control Systems and Signal Processing (Simulink, LTI systems, Fourier and Laplace transforms);
 - - Physics (solid-state physics, dynamical dystems, NMR, quantum computing); 
 - - and, of course, Programming (Python, Matlab & Simulink, and some of the relevant languages to the mentionned fields).
