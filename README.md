@@ -25,13 +25,18 @@ I am Bassirou. I am interested on Modeling and Computation of Complex Systems.
 
 ### Hi there 👋, Bassirou Ndiaye
 #### I am Bassirou a Senegalese living in Korea.
-![I am Bassirou a Senegalese living in Korea.](https://media.licdn.com/dms/image/D5616AQHFeHC4pPFAGA/profile-displaybackgroundimage-shrink_350_1400/0/1671935164303?e=1677715200&v=beta&t=ZJ1oyNa7XwBVBkM65S729e0lIQCDXm7GzPGxhYOixTs)
+![I am Bassirou a Senegalese living in Korea.](https://media.licdn.com/dms/image/D5616AQExpToJb23oyA/profile-displaybackgroundimage-shrink_350_1400/0/1671957673148?e=1677715200&v=beta&t=0e8vKM5uLyzPXO1bDZv8XP3I71W0CKnP4MCLB1lbOpM)
 
 I am interested on Systems Modeling (model-based and data-driven) and their Computation with numerical or machine learning methods.
 
 Skills: Python / Matlab / Simulink / C / C# / C++ / Fortran / Java / Markups: HTML, LaTeX, Markdown / Git
 
 - 🔭 I’m currently working on this page. 
+
+
+
+
+ 
 
 
 
