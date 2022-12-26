@@ -1,5 +1,5 @@
-### Hi there 👋, Bassirou Ndiaye
-#### I am Bassirou a Senegalese living in Korea.
+Hi there 👋, 안녕하세요?
+I am Bassirou a Senegalese living in Korea.
 ![I am Bassirou a Senegalese living in Korea.](https://pbs.twimg.com/profile_banners/377402778/1672025817/1080x360)
 
 I am interested on Systems Modeling (model-based and data-driven) and their Computation with numerical or machine learning methods.
@@ -10,7 +10,7 @@ Skills: Python / Matlab / Simulink / C / C# / C++ / Fortran / Java / Markups: HT
 
  
 
- 안녕하세요
+ 
 - 🌱 I’m currently learning C++, numerical methods and quantum machine learning.
 - 👯 I’m looking to collaborate on the abovely mentionned topics computed through Python and Matlab (and Simulink).
 - 🤔 I’m looking for help for a simulation of a full NMR spectrometer.
