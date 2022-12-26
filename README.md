@@ -2,7 +2,9 @@
 ![I am Bassirou a Senegalese living in Korea.](https://media.licdn.com/dms/image/D5616AQExpToJb23oyA/profile-displaybackgroundimage-shrink_350_1400/0/1671957673148?e=1677715200&v=beta&t=0e8vKM5uLyzPXO1bDZv8XP3I71W0CKnP4MCLB1lbOpM)
 
 Hi there 👋,  안녕하세요
+
 I am Bassirou a Senegalese living in Korea.
+
 I am interested on Systems Modeling (model-based and data-driven) and their Computation with numerical or machine learning methods.
 
 Skills: Python / Matlab / Simulink / C / C# / C++ / Fortran / Java / Markups: HTML, LaTeX, Markdown / Git
@@ -10,10 +12,6 @@ Skills: Python / Matlab / Simulink / C / C# / C++ / Fortran / Java / Markups: HT
 - 🔭 I’m currently working on this page. 
 
 
-### Hi there 👋 안녕하세요
-I am Bassirou. I am interested on Modeling and Computation of Complex Systems. 
-
-- 🔭 I’m currently working on computational and machine learning methods for dynamical systems.
 - 🌱 I’m currently learning C++, numerical methods and quantum machine learning.
 - 👯 I’m looking to collaborate on the abovely mentionned topics computed through Python and Matlab (and Simulink).
 - 🤔 I’m looking for help for a simulation of a full NMR spectrometer.
