@@ -30,4 +30,4 @@ Skills: Python / Matlab / Simulink / C / C# / C++ / Fortran / Java / Markups: HT
 
 - ⚡ Fun fact: I drop lines that Da Vinci can't code. Yeah, sometimes 😄.
 
-- 🔭 I’m currently working on this page...
+- 🔭 I’m currently working on this page and on some coming soon repositories..
