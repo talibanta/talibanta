@@ -8,8 +8,7 @@ I am Bassirou a Senegalese living in Korea.
 I am interested on Systems Modeling (model-based and data-driven) and their Computation with numerical or machine learning methods.
 
 Skills: Python / Matlab / Simulink / C / C# / C++ / Fortran / Java / Markups: HTML, LaTeX, Markdown / Git
-
-- 🔭 I’m currently working on this page. 
+ 
 
 
 - 🌱 I’m currently learning C++, numerical methods and quantum machine learning.
@@ -28,3 +27,5 @@ Skills: Python / Matlab / Simulink / C / C# / C++ / Fortran / Java / Markups: HT
 - 😄 Pronouns: He/His
 
 - ⚡ Fun fact: I drop lines that Da Vinci can't code. Yeah, sometimes 😄.
+
+- 🔭 I’m currently working on this page.
