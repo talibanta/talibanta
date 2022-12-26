@@ -3,8 +3,11 @@
 
 
 Hi there 👋, 안녕하세요?
+
 I am Bassirou a Senegalese living in Korea.
+
 I am interested on Systems Modeling (model-based and data-driven) and their Computation with numerical or machine learning methods.
+
 
 Skills: Python / Matlab / Simulink / C / C# / C++ / Fortran / Java / Markups: HTML, LaTeX, Markdown / Git
 
