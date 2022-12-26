@@ -7,7 +7,9 @@
 
 Hi there 👋, 안녕하세요?
 
-I am Bassirou a Senegalese living in Korea. 은자이 바시루 입니다. 
+I am Bassirou a Senegalese living in Korea. 
+
+은자이 바시루 입니다. 
 이것은 건설중인 새로운 github 저장소입니다.  개인적으로 달성한 프로젝트는 곧 업로드될 예정입니다.  감사합니다
 
 I am interested on Systems Modeling (model-based and data-driven) and their Computation with numerical or machine learning methods.
