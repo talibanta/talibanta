@@ -14,7 +14,7 @@ I am interested on Systems Modeling (model-based and data-driven) and their Comp
 
 Skills: Python / Matlab / Simulink / C / C# / C++ / Fortran / Java / Markups: HTML, LaTeX, Markdown / Git
 
-## 💬 Ask me about:
+### 💬 Ask me about:
 - - Mathematics (numerical methods, differential equations, linear algebra, probability and statistics);
 - - Machine and Deep Learning (dimensionality reduction and clustering methods, specially, PCA technique and Kohonen SOM neural networks);
 - - Control Systems and Signal Processing (Simulink, LTI systems, Fourier and Laplace transforms, Arduino);
@@ -27,4 +27,4 @@ Skills: Python / Matlab / Simulink / C / C# / C++ / Fortran / Java / Markups: HT
 
 - ⚡ Fun fact: I drop lines that Da Vinci can't code. Yeah, sometimes 😄.
 
-- 🔭 I’m currently working on this page and on some coming-soon repositories..
+### 🔭 I’m currently working on this page and on some coming-soon repositories..
