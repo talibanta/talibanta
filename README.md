@@ -16,8 +16,6 @@ Skills: Python / Matlab / Simulink / C / C# / C++ / Fortran / Java / Markups: HT
 
 
  
-- 🌱 I’m currently learning C++, numerical methods and quantum machine learning.
-- 👯 I’m looking to collaborate on the abovely mentionned topics computed through Python and Matlab (and Simulink).
 - 🤔 I’m looking for help for a simulation of a full NMR spectrometer.
 
 - 💬 Ask me about:
@@ -33,4 +31,4 @@ Skills: Python / Matlab / Simulink / C / C# / C++ / Fortran / Java / Markups: HT
 
 - ⚡ Fun fact: I drop lines that Da Vinci can't code. Yeah, sometimes 😄.
 
-- 🔭 I’m currently working on this page and on some coming soon repositories..
+- 🔭 I’m currently working on this page and on some coming-soon repositories..
