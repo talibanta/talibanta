@@ -14,11 +14,7 @@ I am interested on Systems Modeling (model-based and data-driven) and their Comp
 
 Skills: Python / Matlab / Simulink / C / C# / C++ / Fortran / Java / Markups: HTML, LaTeX, Markdown / Git
 
-
- 
-- 🤔 I’m looking for help for a simulation of a full NMR spectrometer.
-
-- 💬 Ask me about:
+## 💬 Ask me about:
 - - Mathematics (numerical methods, differential equations, linear algebra, probability and statistics);
 - - Machine and Deep Learning (dimensionality reduction and clustering methods, specially, PCA technique and Kohonen SOM neural networks);
 - - Control Systems and Signal Processing (Simulink, LTI systems, Fourier and Laplace transforms, Arduino);
@@ -26,6 +22,7 @@ Skills: Python / Matlab / Simulink / C / C# / C++ / Fortran / Java / Markups: HT
 - - and, of course, Programming (Python, Matlab & Simulink, and some of the relevant languages to the mentionned fields).
 - - Some languages I have a basic level with: C, C#, Java, SQL, markup (HTML, LateX, Markdown), Git.
 
+- 🤔 I’m looking for help for a simulation of a full NMR spectrometer.
 - 📫 How to reach me: basskeman@gmail.com, and +82 10 8226 7912.
 - 😄 Pronouns: He/His
 
