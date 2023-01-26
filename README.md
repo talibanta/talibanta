@@ -28,6 +28,6 @@ Language Skills: Python / Matlab / Simulink / C / C# / Fortran / Java / Markups:
 - 🤔 I’m looking for help for a simulation of a full NMR spectrometer.
 - 📫 How to reach me: basskeman@gmail.com, and +82 10 8226 7912.
 
-- ⚡ Fun fact: I drop lines that Da Vinci can't code. Yeah, sometimes 😄.
+- ⚡ Fun fact: I drop lines that Vinci can't code. Yeah, sometimes 😄.
 
-### 🔭 I’m currently working on this page and on some coming-soon repositories..
+### 🔭 I’m currently working on this page and on some coming-soon repositories..  
