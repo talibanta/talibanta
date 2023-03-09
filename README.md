@@ -23,7 +23,7 @@ Language Skills: Python / Matlab / Simulink / C / C# / Fortran / Java / Markups:
 - - Some languages I have a basic level with: C, C#, Java, SQL, markup (HTML, LateX, Markdown), Git.
 
 - 🤔 I’m looking for help for a simulation of a full NMR spectrometer.
-- 📫 How to reach me: basskeman@gmail.com, and +82 10 8226 7912.
+- 📫 How to reach me: basskeman@gmail.com.
 
 - ⚡ Fun fact: I drop lines that Vinci can't decode. Yeah, sometimes 😄.
 
