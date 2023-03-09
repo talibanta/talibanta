@@ -7,7 +7,7 @@
 
 Hi there 👋
 
-I am Bassirou a Senegalese living in Korea. 
+I am Bassirou and I am Senegalese. 
 
 I am interested on Systems Modeling (model-based and data-driven) and their computation with numerical or machine learning methods.
 
