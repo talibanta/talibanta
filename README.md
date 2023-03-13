@@ -1,4 +1,4 @@
-## Bassirou's Github Readme Portfolio
+## Bassirou's Github Profile Readme Portfolio
 
 # Bassirou Ndiaye
 
