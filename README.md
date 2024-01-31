@@ -10,11 +10,11 @@ Hi there 👋
 I am Bassirou a Senegalese living in Korea. 
 
 ### 💬 Ask me about:
-- In computational science, I am interested on complex dynamical systems modeling (model-based and data-driven) and their computation (simulation) with numerical or machine learning methods.
+- In computational science, on complex dynamical systems modeling (model-based and data-driven) and their computation (simulation) with numerical or machine learning methods.
 
 - In Machine and Deep Learning, on dimensionality reduction and clustering methods, specially, SVD, PCA techniques and Kohonen SOM neural networks.
 
-- In Communication Systems (RF transreceiver design), Control Systems (data driven controller design) and Signal Processing (analog and digital): mostly applied to NMR instruments using Simulink, Arduino, C++;
+- In Communication Systems (on RF transreceiver design), Control Systems (on data driven controller design) and Signal Processing (analog and digital): mostly applied to NMR instruments using Simulink, Arduino, C++;
 
 
 - In Coding: To these mentionned fields, here are some relevant languages for which I have a very modest level: Python, Matlab, C++, Fortran, markups (HTML, LateX, Markdown), Git, Processing.
