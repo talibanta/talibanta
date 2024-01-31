@@ -11,12 +11,13 @@ I am Bassirou a Senegalese living in Korea.
 
 ### 💬 Ask me about:
 - - In computational science, I am interested on complex dynamical systems modeling (model-based and data-driven) and their computation (simulation) with numerical or machine learning methods.
-- - Mathematics (applied to dynamical dystems: differential equations, numerical methods, linear algebra);
-- - Machine and Deep Learning (dimensionality reduction and clustering methods, specially, SVD, PCA techniques and Kohonen SOM neural networks);
-- - Communication Systems (RF transreceivr design), Control Systems (data driven controller design) and Signal Processing (analog and digital): all applied to NMR instruments using Simulink, Arduino, C++);
-- - Physics (the basics of modern physics, solid-state physics, NMR Spectroscopy, functional materials and devices);
-- - Spin qubit quantum and neuromorphic computing
-- - Coding: To these mentionned fields, here are some relevant languages for which I have a very modest level: Python, Matlab, C++, Fortran, markups (HTML, LateX, Markdown), Git, Processing.
+
+- - In Machine and Deep Learning, on dimensionality reduction and clustering methods, specially, SVD, PCA techniques and Kohonen SOM neural networks.
+
+- - In Communication Systems (RF transreceiver design), Control Systems (data driven controller design) and Signal Processing (analog and digital): mostly applied to NMR instruments using Simulink, Arduino, C++;
+
+
+- - In Coding: To these mentionned fields, here are some relevant languages for which I have a very modest level: Python, Matlab, C++, Fortran, markups (HTML, LateX, Markdown), Git, Processing.
 
 
 - 🤔 I’m looking for help for a simulation of a full NMR spectrometer.
