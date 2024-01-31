@@ -7,20 +7,17 @@
 
 Hi there 👋
 
-I am Bassirou and I am Senegalese. 
-
-I am interested on Systems Modeling (model-based and data-driven) and their computation with numerical or machine learning methods.
-
-
-Language Skills: Python / Matlab / Simulink / C / C# / Fortran / Java / Markups: HTML, LaTeX, Markdown / Git
+I am Bassirou a Senegalese living in Korea. 
 
 ### 💬 Ask me about:
-- - Mathematics (numerical methods, differential equations, linear algebra, probability and statistics);
-- - Machine and Deep Learning (dimensionality reduction and clustering methods, specially, PCA technique and Kohonen SOM neural networks);
-- - Control Systems and Signal Processing (Simulink, LTI systems, Fourier and Laplace transforms, Arduino);
-- - Physics (solid-state physics, dynamical dystems, NMR, quantum computing); 
-- - and, of course, Programming (Python, Matlab & Simulink, and some of the relevant languages to the mentionned fields).
-- - Some languages I have a basic level with: C, C#, Java, SQL, markup (HTML, LateX, Markdown), Git.
+- - In computational science, I am interested on complex dynamical systems modeling (model-based and data-driven) and their computation (simulation) with numerical or machine learning methods.
+- - Mathematics (applied to dynamical dystems: differential equations, numerical methods, linear algebra);
+- - Machine and Deep Learning (dimensionality reduction and clustering methods, specially, SVD, PCA techniques and Kohonen SOM neural networks);
+- - Communication Systems (RF transreceivr design), Control Systems (data driven controller design) and Signal Processing (analog and digital): all applied to NMR instruments using Simulink, Arduino, C++);
+- - Physics (the basics of modern physics, solid-state physics, NMR Spectroscopy, functional materials and devices);
+- - Spin qubit quantum and neuromorphic computing
+- - Coding: To these mentionned fields, here are some relevant languages for which I have a very modest level: Python, Matlab, C++, Fortran, markups (HTML, LateX, Markdown), Git, Processing.
+
 
 - 🤔 I’m looking for help for a simulation of a full NMR spectrometer.
 - 📫 How to reach me: basskeman@gmail.com.
