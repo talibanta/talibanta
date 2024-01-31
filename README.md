@@ -17,9 +17,11 @@ I am Bassirou a Senegalese living in Korea.
 - In Communication Systems (on RF transreceiver design), Control Systems (on data driven controller design) and Signal Processing (analog and digital): mostly applied to NMR instruments using Simulink, Arduino, C++;
 
 -Crystal and molecular structures: visualization, and diffraction pattern generation 
-(CrystalMaker, The Materials Project, Atomate)
+(CrystalMaker, The Materials Project, Atomate, VASP)
 
--Simulation of CMOS devices: Quantum transport based on the drift-diffusion and Poisson models in diodes, quantum wells, transistors, using simulation softwares with built-in numerical solvers (nextnano, NESS, FEnICS, Elmer, COMSOL (free trial)) 
+-Simulation of CMOS devices: Quantum transport based on the drift-diffusion and Poisson models in diodes, quantum wells, transistors, using simulation softwares with built-in numerical solvers (nextnano, NESS, FEnICS, Elmer, COMSOL ) 
+
+-quantum computing: quiskit
 
 - In Coding: To these mentionned fields, here are some relevant languages for which I have a very modest level: Python, Matlab, C++, Fortran, markups (HTML, LateX, Markdown), Git, Processing.
 
