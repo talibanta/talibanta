@@ -1,6 +1,5 @@
 ## Bassirou's Github Profile Readme Portfolio
 
-# Bassirou Ndiaye
 
 ![I am Bassirou a Senegalese living in Korea.](https://pbs.twimg.com/profile_banners/377402778/1672025817/1080x360)
 
