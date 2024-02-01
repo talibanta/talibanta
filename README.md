@@ -14,26 +14,26 @@ My interest in computational science are on complex dynamical systems modeling (
 
 **-Computational Materials:** materials informatics based on quantum chemistry methods, interatomic potentials and enhancement with machine learning for atomic, molecular and crystal structures and dynamics calculations and simulations.
 
-** -Computational Devices: 
-** --RF and microwave communication devices: electromagnetic simulations, signal generator simulation, network parameters calculations, antenna impedance matching, etc.
-** --CMOS devices: quantum transport in heterostructured systems.
+**-Computational Devices:**
+**--RF and microwave communication devices:** electromagnetic simulations, signal generator simulation, network parameters calculations, antenna impedance matching, etc.
+**--CMOS devices:** quantum transport in heterostructured systems.
 
-** -Computational Physics:
+**-Computational Physics:**
 --Solid dynamics: classical mechanics problems
 --Fluid dynamics: computational fluid dynamics for the Navier-Stokes equations.
 
--Control System: controller design simulation using Simulink and Arduino
+**-Control System:** controller design simulation using Simulink and Arduino
 
--Signal processing: for analog and digital communication systems
+**-Signal processing:** for analog and digital communication systems
 
--NMR spectroscopy:
+**-NMR spectroscopy:**
 Scripts for automated NMR pulse sequences, signal processing, data acquisition, data processing
 
--Quantum Computing: quantum circuits and algorithms with qiskit
+**-Quantum Computing:** quantum circuits and algorithms with qiskit
 
--Data Processing and Analysis: machine and deep learning dimensionality reduction and clustering methods, specially, SVD, PCA techniques and Kohonen SOM neural networks.
+**-Data Processing and Analysis:** machine and deep learning dimensionality reduction and clustering methods, specially, SVD, PCA techniques and Kohonen SOM neural networks.
 
--Quantum Machine Learning: quantum algorithms such as VQE, QAQA, with Qiskit Machine Learning, TensorFlow Quantum, PennyLane, Torch Quantum, etc.
+**-Quantum Machine Learning:** quantum algorithms such as VQE, QAQA, with Qiskit Machine Learning, TensorFlow Quantum, PennyLane, Torch Quantum, etc.
 
 
 - 🤔 I’m looking for help for a simulation of a full NMR spectrometer.
