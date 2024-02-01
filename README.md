@@ -10,20 +10,30 @@ Hi there 👋
 I am Bassirou a Senegalese living in Korea. 
 
 ### 💬 Ask me about:
-- In computational science, on complex dynamical systems modeling (model-based and data-driven) and their computation (simulation) with numerical or machine learning methods.
+My interest in computational science are on complex dynamical systems modeling (model-based and data-driven) and their computation (simulation) with numerical or machine learning methods, using mainly Matlab, Python and C++.
 
-- In Machine and Deep Learning, on dimensionality reduction and clustering methods, specially, SVD, PCA techniques and Kohonen SOM neural networks.
+-Computational Materials: materials informatics based on quantum chemistry methods, interatomic potentials and enhancement with machine learning for atomic, molecular and crystal structures and dynamics calculations and simulations.
 
-- In Communication Systems (on RF transreceiver design), Control Systems (on data driven controller design) and Signal Processing (analog and digital): mostly applied to NMR instruments using Simulink, Arduino, C++;
+-Computational Devices: 
+--RF and microwave communication devices: electromagnetic simulations, signal generator simulation, network parameters calculations, antenna impedance matching, etc.
+--CMOS devices: quantum transport in heterostructured systems.
 
--Crystal and molecular structures: visualization, and diffraction pattern generation 
-(CrystalMaker, The Materials Project, Atomate, VASP)
+-Computational Physics:
+--Solid dynamics: classical mechanics problems
+--Fluid dynamics: computational fluid dynamics for the Navier-Stokes equations.
 
--Simulation of CMOS devices: Quantum transport based on the drift-diffusion and Poisson models in diodes, quantum wells, transistors, using simulation softwares with built-in numerical solvers (nextnano, NESS, FEnICS, Elmer, COMSOL ) 
+-Control System: controller design simulation using Simulink and Arduino
 
--quantum computing: quiskit
+-Signal processing: for analog and digital communication systems
 
-- In Coding: To these mentionned fields, here are some relevant languages for which I have a very modest level: Python, Matlab, C++, Fortran, markups (HTML, LateX, Markdown), Git, Processing.
+-NMR spectroscopy:
+Scripts for automated NMR pulse sequences, signal processing, data acquisition, data processing
+
+-Quantum Computing: quantum circuits and algorithms with qiskit
+
+-Data Processing and Analysis: machine and deep learning dimensionality reduction and clustering methods, specially, SVD, PCA techniques and Kohonen SOM neural networks.
+
+-Quantum Machine Learning: quantum algorithms such as VQE, QAQA, with Qiskit Machine Learning, TensorFlow Quantum, PennyLane, Torch Quantum, etc.
 
 
 - 🤔 I’m looking for help for a simulation of a full NMR spectrometer.
