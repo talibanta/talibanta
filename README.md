@@ -14,12 +14,13 @@ My interest in computational science are on complex dynamical systems modeling (
 
 **-Computational Materials:** materials informatics based on quantum chemistry methods, interatomic potentials and enhancement with machine learning for atomic, molecular and crystal structures and dynamics calculations and simulations.
 
-**-Computational Devices:** **--RF and microwave communication devices:** electromagnetic simulations, signal generator simulation, network parameters calculations, antenna impedance matching, etc.
+**-Computational Devices:**
+**--RF and microwave communication devices:** electromagnetic simulations, signal generator simulation, network parameters calculations, antenna impedance matching, etc.
 **--CMOS devices:** quantum transport in heterostructured systems.
 
 **-Computational Physics:**
---Solid dynamics: classical mechanics problems
---Fluid dynamics: computational fluid dynamics for the Navier-Stokes equations.
+**--Solid dynamics:** classical mechanics problems
+**--Fluid dynamics:** computational fluid dynamics for the Navier-Stokes equations.
 
 **-Control System:** controller design simulation using Simulink and Arduino
 
