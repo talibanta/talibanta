@@ -19,7 +19,7 @@ My interest in computational science are on complex dynamical systems modeling (
 **--CMOS devices:** quantum transport in heterostructured systems.
 
 **-Computational Physics:**  
-**--Solid dynamics:** classical mechanics problems. 
+**--Solid dynamics:** classical mechanics problems.  
 **--Fluid Dynamics:** computational fluid dynamics for the Navier-Stokes equations.
 
 **-Control System:** controller design simulation using Simulink and Arduino
