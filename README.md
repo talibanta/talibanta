@@ -20,13 +20,13 @@ My interest in computational science are on complex dynamical systems modeling (
 
 **-Computational Physics:**
 **--Solid dynamics:** classical mechanics problems
-**--Fluid dynamics:** computational fluid dynamics for the Navier-Stokes equations.
+**--Fluid Dynamics:** computational fluid dynamics for the Navier-Stokes equations.
 
 **-Control System:** controller design simulation using Simulink and Arduino
 
-**-Signal processing:** for analog and digital communication systems
+**-Signal Processing:** for analog and digital communication systems
 
-**-NMR spectroscopy:**
+**-NMR Spectroscopy:**
 Scripts for automated NMR pulse sequences, signal processing, data acquisition, data processing
 
 **-Quantum Computing:** quantum circuits and algorithms with qiskit
