@@ -9,7 +9,7 @@ Hi there 👋
 
 I am Bassirou a Senegalese living in Korea. 
 
-### 💬 Ask me about:
+### 💬 About my Interests:
 My interest in computational science are on complex dynamical systems modeling (model-based and data-driven) and their computation (simulation) with numerical or machine learning methods, using mainly Matlab, Python and C++.
 
 **-Computational Materials:** materials informatics based on quantum chemistry methods, interatomic potentials and enhancement with machine learning for atomic, molecular and crystal structures and dynamics calculations and simulations.
