@@ -35,7 +35,7 @@ Scripts for automated NMR pulse sequences, signal processing, data acquisition, 
 **- Quantum Machine Learning:** quantum algorithms such as VQE, QAQA, with Qiskit Machine Learning, TensorFlow Quantum, PennyLane, Torch Quantum, etc.
 
 
-- 🤔 I’m looking for help for a simulation of a full NMR spectrometer.
+- 🤔 Wondering the possibility for a simulation of a full NMR spectrometer.
 - 📫 How to reach me: basskeman@gmail.com.
 
 - ⚡ Fun fact: I drop lines that Vinci can't decode. Yeah, sometimes 😄.
