@@ -38,6 +38,6 @@ Scripts for automated NMR pulse sequences, signal processing, data acquisition, 
 - 🤔 Wondering the possibility for a simulation of a full NMR spectrometer.
 - 📫 How to reach me: basskeman@gmail.com.
 
-- ⚡ Fun fact: I drop lines that Vinci can't decode. Yeah, sometimes 😄.
+- ⚡ Fun fact: I drop lines that Vinci can't code. Yeah, sometimes 😄.
 
 *🔭 I’m currently working on this page and on some coming-soon repositories..*  
